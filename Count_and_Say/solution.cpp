@@ -24,6 +24,6 @@ public:
             }
             s = res;
         }
-        return res;
+        return s;
     }
 };
