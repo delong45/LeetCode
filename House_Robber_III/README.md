@@ -4,20 +4,20 @@ Determine the maximum amount of money the thief can rob tonight without alerting
 
 ##### Example 1:
 `
-     3
+     3  
     / \
-   2   3
+   2   3  
     \   \ 
-     3   1
+     3   1  
 `
 Maximum amount of money the thief can rob = 3 + 3 + 1 = **7**.
 
 ##### Example 2:
 `
-     3
+     3  
     / \
-   4   5
+   4   5  
   / \   \ 
- 1   3   1
+ 1   3   1  
 `
 Maximum amount of money the thief can rob = 4 + 5 = **9**.
