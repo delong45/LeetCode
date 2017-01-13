@@ -6,7 +6,7 @@ public:
         for (int i = 0; i < s.size(); i++) {
             if (has_start) {
                 if (s[i] == ' ') {
-                    count += 1; 
+                    count += 1;
                     has_start = false;
                 }
             } else {
